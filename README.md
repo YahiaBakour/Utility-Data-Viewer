@@ -1,6 +1,5 @@
 # Utility-Data-Viewer
-
-This program utilizes React, Node.js, JSXML, HTML, and CSS to produce a userfriendly and informative website that pulls it's data from a json file. 
+This program utilizes React, Node.js, JSXML, HTML, and CSS to produce a userfriendly and informative website that pulls it's data from a json file. I originally had a strong interest in react & redux, but was lacking in experience. All it takes is one all-nighter to get good at something.
 You can see it up and running here: https://solstice-interview-yahia.herokuapp.com/
 
 ## Sources used for help:
@@ -14,6 +13,12 @@ You can see it up and running here: https://solstice-interview-yahia.herokuapp.c
 ### Software used for testing and debugging
 - Microsoft Visual Studio 
 - Git & heroku-cli
+
+### Libraries used for the awesome stuff:
+- http://www.chartjs.org/ (React Chart js2 has amazing and easily scalable charts)
+- React & ReactDOM Libraries
+- Yarn & Npm for downloading libraries.
+- WebPack for React.
 
 ### technologies used:
 - JavascriptXML
