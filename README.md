@@ -19,8 +19,9 @@ You can see it up and running here: https://solstice-interview-yahia.herokuapp.c
 - React & ReactDOM Libraries
 - Yarn & Npm for downloading libraries.
 - WebPack for React.
+- Babel
 
-### technologies used:
+### Technologies used:
 - JavascriptXML
 - ReactJS
 - NodeJS
