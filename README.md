@@ -22,7 +22,7 @@ You can see it up and running here: https://solstice-interview-yahia.herokuapp.c
 - Yarn & Npm for downloading libraries.
 - WebPack for React.
 - Babel
-
+- React-Router (Awesome and easy to use routing library for React, Did not use it this time but I highly recommend it to anyone)
 ### Technologies used:
 - JavascriptXML
 - ReactJS
