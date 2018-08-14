@@ -11,6 +11,7 @@ You can see it up and running here: https://solstice-interview-yahia.herokuapp.c
 - https://stackoverflow.com/questions/tagged/reactjs
 - https://htmlcolorcodes.com/ (CSS custom colors)
 - https://www.designrush.com/resources/designskilz/cool-css-buttons/ (Cool CSS Button Designs)
+- https://babeljs.io/
 
 ### Software used for testing and debugging
 - Microsoft Visual Studio 
