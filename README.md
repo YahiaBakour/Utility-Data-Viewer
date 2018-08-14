@@ -9,6 +9,8 @@ You can see it up and running here: https://solstice-interview-yahia.herokuapp.c
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 - heroku.com (Hosting)
 - https://stackoverflow.com/questions/tagged/reactjs
+- https://htmlcolorcodes.com/ (CSS custom colors)
+- https://www.designrush.com/resources/designskilz/cool-css-buttons/ (Cool CSS Button Designs)
 
 ### Software used for testing and debugging
 - Microsoft Visual Studio 
@@ -27,3 +29,5 @@ You can see it up and running here: https://solstice-interview-yahia.herokuapp.c
 - NodeJS
 - HTML5
 - CSS
+- Express (A little)
+
