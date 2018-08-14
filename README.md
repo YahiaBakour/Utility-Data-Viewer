@@ -12,7 +12,7 @@ You can see it up and running here: https://solstice-interview-yahia.herokuapp.c
 - https://htmlcolorcodes.com/ (CSS custom colors)
 - https://www.designrush.com/resources/designskilz/cool-css-buttons/ (Cool CSS Button Designs)
 - https://babeljs.io/
-
+- https://stackoverflow.com/questions/11499268/sort-two-arrays-the-same-way
 ### Software used for testing and debugging
 - Microsoft Visual Studio 
 - Git & heroku-cli
