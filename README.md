@@ -1,5 +1,5 @@
 # Utility-Data-Viewer
-This program utilizes React, Node.js, JSXML, HTML, and CSS to produce a userfriendly and informative website that pulls it's data from a json file. I originally had a strong interest in react & redux, but was lacking in experience. All it takes is one all-nighter to get good at something.
+This program utilizes React, Node.js, JSXML, HTML, and CSS to produce a userfriendly and informative website that pulls it's data from a json file. I originally had a strong interest in react & redux, but was lacking in experience. After racing to learn more about react and node.js (in-addition to an all-nighter), I built the following web application.
 You can see it up and running here: https://solstice-interview-yahia.herokuapp.com/
 
 ## Sources used for help:
